@@ -1,9 +1,13 @@
-# Hello, I'm Suphanath. :wave:
-###
+![SpntKbrg](https://socialify.git.ci/spntkbrg/spntkbrg/image?description=1&descriptionEditable=Suphanath%20Kaewboonruang&font=Rokkitt&logo=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F24301824&pattern=Circuit%20Board&theme=Dark)
+# Hello, :wave:
 <a href="https://www.linkedin.com/in/suphanath-kaewboonruang/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 <a href="https://medium.com/@spntkbrg">![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)</a>
 <a href="https://www.spntkbrg.com/">![Website](https://img.shields.io/badge/SpntKbrg.com-FF9900?style=for-the-badge)</a>
-<a href="https://nettea.itch.io">![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)</a>
+<!-- <a href="https://nettea.itch.io">![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)</a> -->
+### Interests:
+- ⌨️ Open Source
+- 💻 Hardware
+- 🕹️ Game Development
 ### Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
